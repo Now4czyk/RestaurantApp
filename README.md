@@ -9,5 +9,5 @@ npm install
 ```
 and then
 ```
-npm run
+npm start
 ```
