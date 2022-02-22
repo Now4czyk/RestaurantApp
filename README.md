@@ -7,3 +7,7 @@ Type in terminal
 ```
 npm install
 ```
+and then
+```
+npm run
+```
