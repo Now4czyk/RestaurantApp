@@ -1,2 +1,9 @@
-# RestaurantApp
-An app of a restaurant
+# Technologies 
+- ReactJS
+- FireBase
+
+# How to run
+Type in terminal
+```
+npm install
+```
