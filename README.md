@@ -2,7 +2,7 @@
 - ReactJS
 - FireBase
 
-# How to run
+# To run locally
 Type in terminal
 ```
 npm install
